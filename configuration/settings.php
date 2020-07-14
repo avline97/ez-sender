@@ -2,8 +2,8 @@
 
 // setting all needs here
 
-$settings['multy']['smtp'][]    = [ "host" => "smtp-relay.gmail.com", "port" => "587", "security" => "tls", "username" => "xxxxxxxxxxxx", "password" => "xxxxxxx" ];
-$settings['multy']['smtp'][]    = [ "host" => "smtp-relay.gmail.com", "port" => "587", "security" => "tls", "username" => "xxxxxxxxxxxx", "password" => "xxxxxxx" ];
+$settings['multy']['smtp'][]    = [ "host" => "smtp-relay.gmail.com", "port" => "587", "security" => "tls", "username" => "minthirasaki@gmail.com", "password" => "Rscingboy201" ];
+$settings['multy']['smtp'][]    = [ "host" => "smtp-relay.gmail.com", "port" => "587", "security" => "tls", "username" => "minthirasaki@gmail.com", "password" => "Racingboy201" ];
 
 $settings['multy']['message'][] = [ "subject" => "sub one ##random_mix_10##", "email" => "##random_string_low_10##@##random_string_low_10##.com", "name" => "name one" ];
 $settings['multy']['message'][] = [ "subject" => "sub two ##random_mix_10##", "email" => "##random_string_low_10##@##random_string_low_10##.com", "name" => "name two" ];
